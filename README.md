@@ -1,1 +1,1 @@
-# SentimentAnalysis-LSTM-NLP project
+# SentimentAnalysis-BI-LSTM-NLP project
